@@ -1,0 +1,10 @@
+#mahesh
+#given two strings are anagram or not
+a=input("enter 1'st string:")
+b=input("enter 2'nd string")
+c=sorted(a)
+d=sorted(b)
+if(c==d):
+  print(a,"and",b,"are anagram")
+else:
+  print("not anagram")
