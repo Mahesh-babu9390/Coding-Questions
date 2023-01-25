@@ -1,3 +1,4 @@
+#python2
 #Mahesh
 #Fib series
 a = int(input("Enter num:"))
